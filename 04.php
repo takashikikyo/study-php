@@ -76,7 +76,7 @@ print_r(date('Y年m月d日h時i分s秒', $yesterday));
 echo "\n";
 
 
-// date
+// datecd
 date_default_timezone_set('Asia/Tokyo');
 echo date('Y年m月d日 H時i分s秒', strtotime('2020/11/10 9:30:25') )."\n";
 
