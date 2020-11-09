@@ -18,8 +18,8 @@ echo $total;
 
 
 <?php 
-$fruit = ["梨 ", "ぶどう ", "パイナップル ", "いちご ", "さくらんぼ "];
-foreach ($fruit as $fruit) {
+$fruits = ["梨 ", "ぶどう ", "パイナップル ", "いちご ", "さくらんぼ "];
+foreach ($fruits as $fruit) {
     echo $fruit;
 }
 ?>
